@@ -1,0 +1,6 @@
+User,Role,AccessRequests,ComplianceStatus
+user1,Admin,10,Compliant
+user2,User,5,Non-Compliant
+user3,Guest,2,Compliant
+user4,Admin,8,Compliant
+user5,User,3,Non-Compliant
